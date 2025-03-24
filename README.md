@@ -70,6 +70,6 @@ python example_usage.py
 
 ## 📬 Contact
 For any queries, feel free to reach out!
-📧 Email: your.email@example.com  
-🔗 GitHub: [your-username](https://github.com/your-username)
+📧 Email: sanjaybaskar.in@gmail.com 
+🔗 GitHub: [SANJAY BASKAR](https://github.com/SANJAY_BASKAR)
 
