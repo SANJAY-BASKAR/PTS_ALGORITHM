@@ -71,5 +71,5 @@ python example_usage.py
 ## 📬 Contact
 For any queries, feel free to reach out!
 📧 Email: sanjaybaskar.in@gmail.com 
-🔗 GitHub: [SANJAY BASKAR](https://github.com/SANJAY_BASKAR)
+🔗 GitHub: [SANJAY BASKAR](https://github.com/SANJAY-BASKAR)
 
